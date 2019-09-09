@@ -1,5 +1,7 @@
 # spec-pack-vue
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/spec-pack-vue.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
